@@ -10,6 +10,8 @@ The system works with private student task information stored in:
 
 ```text
 data/tasks.json
+
+Repo Structure:
 ai-agent/
 │
 ├── 📁 agent/
