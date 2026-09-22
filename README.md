@@ -6,6 +6,9 @@ This project demonstrates three approaches using the same scenario:
 
 **Personal Student Task Assistant**
 
+```text
+
+
 Repo Structure:
 ai-agent/
 │
