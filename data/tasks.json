@@ -1,0 +1,22 @@
+[
+    {
+        "task": "DSA Practice",
+        "due_date": "2026-09-24",
+        "status": "Pending"
+    },
+    {
+        "task": "Machine Learning Assignment",
+        "due_date": "2026-09-25",
+        "status": "Pending"
+    },
+    {
+        "task": "AI Agent Day 1 Task",
+        "due_date": "2026-09-26",
+        "status": "Pending"
+    },
+    {
+        "task": "GitHub Project",
+        "due_date": "2026-09-28",
+        "status": "Pending"
+    }
+]
