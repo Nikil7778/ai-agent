@@ -10,3 +10,26 @@ The system works with private student task information stored in:
 
 ```text
 data/tasks.json
+ai-agent/
+│
+├── 📁 agent/
+│   ├── agent.py
+│   └── tools.py
+│
+├── 📁 chatbot/
+│   └── chatbot.py
+│
+├── 📁 data/
+│   └── tasks.json
+│
+├── 📁 Output/
+│   ├── chatbot.png
+│   ├── workflow.png
+│   └── agent.png
+│
+├── 📁 workflow/
+│   └── workflow.py
+│
+├── 📄 .gitignore
+├── 📄 analysis.md
+└── 📄 README.md
